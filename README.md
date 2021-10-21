@@ -14,7 +14,7 @@ with _all_ past releases of Porcelain. The old releases are kept online merely
 for history.
 
   [1]: https://github.com/alco/porcelain
-  [2]: https://github.com/alco/goon/releases
+  [2]: https://github.com/tsutsu/goon/releases
 
 ## Building from source
 
